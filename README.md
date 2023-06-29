@@ -8,5 +8,3 @@ El cual se implemento en la página de una pizzería donde se utilizo;
 - La distancia aplicada entre casillas 
 - La forma de las casillas
 - Estilo y diseño presentable
-
-Aquí puedes visualizar mi proyecto terminado:[clongoogle](file:///C:/Users/navez/OneDrive/Documentos/Flexbox-y-CSS-Grid-main/index.html).
